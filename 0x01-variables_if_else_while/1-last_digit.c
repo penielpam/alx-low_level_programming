@@ -1,5 +1,5 @@
-#include <stdlid.h>
-#include <studio.h>
+#include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
 /* more headers goes there */
 
@@ -12,4 +12,5 @@ int main (void)
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
 	return (0);
+
 }
