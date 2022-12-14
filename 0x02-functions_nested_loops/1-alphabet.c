@@ -2,13 +2,12 @@
 
 /**
  * print_alphabet - print all the alphabet in lowercase
- * Return: Always 0 (success)
  */
 void print_alphabet(void)
 {
-	char letter;
+	char la;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
+	for (la	= 'a'; la <= 'z'; la++)
 		_putchar(la);
 
 	_putchar('\n');
