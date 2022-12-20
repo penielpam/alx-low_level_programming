@@ -1,10 +1,8 @@
 #include "main.h"
-
 /**
  * puts_half - prints half of a string
  * Return: 0 is success
  */
-
 void puts_half(char *str)
 {
 	int string = 0, n;
